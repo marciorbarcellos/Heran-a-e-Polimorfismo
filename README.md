@@ -58,7 +58,7 @@ TOTAL TAXES: $ 97000.00
 
 ### Diagrama
 
-![myImage](https://github.com/marciorbarcellos/Heranca-e-Polimorfismo/raw/master/domain-model.png)
+![myImage](https://github.com/marciorbarcellos/heranca-e-polimorfismo/raw/master/diagrama.jpg)
 
 
 
